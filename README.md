@@ -1,7 +1,6 @@
 # hello-world
 short description
 
-#Adding to readme
 Seeing the glitch in the Matrix
 -the people you see
 -the situations that are presented
